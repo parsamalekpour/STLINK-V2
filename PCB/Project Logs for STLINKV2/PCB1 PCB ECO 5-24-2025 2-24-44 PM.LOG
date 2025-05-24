@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TXD Pin=UART-1
+Removed Pin From Net: NetName=RXD Pin=UART-2
+Removed Pin From Net: NetName=VCC Pin=UART-3
+Removed Pin From Net: NetName=GND Pin=UART-4
+Removed Member From Class: ClassName=MAIN Member=UART
