@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=Y1-2
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL-SMD New Footprint=SMD3225_4P12288MHZ12PF10PPM4085
+Change Component Comment : Designator=Y1 Old Comment=8MHz New Comment=X32258MSB4SI
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "XTAL-SMD"; UniqueID = "\JCFHDSTY" ("\JCFHDSTY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1901241506_Zhejiang-Abel-Elec-SMD-3225-4P-12-288MHZ-12PF-10PPM-40-85_C362472.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAE(Zhejiang Abel Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMD-3225_4P 12.288MHZ 12PF 10PPM -40~+85¡æ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC2_2 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
